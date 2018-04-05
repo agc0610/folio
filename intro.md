@@ -17,7 +17,7 @@ In a nutshell:
 3. Intuition and gut feel are important. These aren't culture fit. I've played that game in San Francisco. But how I communicate, how you communicate, and whether we believe in what we are working toward together play a role in how our chemistry will manifest. We have to meet each other to see how that goes. 
 
 
-I know screening candidates requires some scalable solutions, like having a folio to look at, so this file in this repo exists to provide you with clues: you can 
+I know screening candidates requires some scalable solutions, like having a folio to look at, so this file in this repo exists to provide you with clues. You can: 
 1. See what I've been up to via the links above
 2. Get to know my UX philosophy 
 3. Decide if you are confident enough to ask for specific artifacts and a coffee together. :) 
