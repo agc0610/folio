@@ -4,74 +4,56 @@
 ##### Github: <https://www.github.com/agc0610> 
 
 
-Paul Adams, an SVP at Intercom, called out in a blog post how portfolios are really a chance for the viewer to see how someone **identifies** and **solves** problems. Often, though, they become like art galleries, visually delightful with meaning left to the viewer to interpret. 
+##Case 1: Banking 
+###Context 
+One of the top banks in Australia wanted to introduce a new digital product to the market for small to medium businesses (SMBs). As the sole consultant in my team professionally trained in research methods, I led a research-only project, working with another consultant and another internal stakeholder at the bank to design and execute the study end-to-end. 
 
-My goal is for you to get acquainted with how I have handled **three (3) example scenarios** as a senior/lead with increased abstraction and broader-range complexity. If you would like to have me walk you through artefacts, I am happy to do so in a live session to honour NDAs from past work. 
+###Objective
+As sophisticated as banking is in Australia, SMBs are often priced out of solutions or have to use tools that don’t fit their needs. We chose to look at hospitality as our first market segment because it was well known that point of sale was a siloed function that required manual integration with other parts of business operations. A bank is the business’ partner for managing money in and out, so we asked, 1) “What are all the roles that a bank might play in supporting a hospitality SMB?” and 2) “Which roles could reduce the most friction for a business’ daily operations?” The intended outcome was to better understand the daily operations of a cafe or restaurant and identify where the bank’s digital tool offerings could innovatively support. 
 
-Looking forward to speaking with you. :) 
+###What We Did 
+Ultimately, we were exploring market viability and direction for a brand new product. The hypothesis we started with was a rough concept that product designers in the bank had begun drafting. Our mixed-method study involved about 20 semi-structured interviews followed by a survey with participating local SMBs (in Melbourne). I wrote both instruments. We allowed one of the bank staff to attend a handful of interviews and assigned them the role of notetaker. I either conducted the interviews myself, or supported my colleague as he built up his interviewing skills. We used Trello for data collection and analysis. You can learn more about this process in [a talk I gave with my design lead at UX Australia Design Research](https://www.slideshare.net/mramiransari/design-research-2019-dr19-using-trello-to-conduct-qualitative-research-more-efficiently). We consolidated our report into an executive-style presentation. 
+
+###What Happened
+We highlighted three key pain point areas that the bank might want to take advantage of, and showed how these avenues fit into their short- and medium-term business strategy. We presented in person to high level decision-makers and executives, and our consultancy won another $2m worth of work to further design the product to which our research had given direction and clarity. 
+
+###Looking Back
+If I could go back and make changes to this, I would have more explicitly tied the value of research and design to business outcomes and goals. There is increasing understanding that design investment has the power to deliver 100%+ ROIs, and it would have been good to ensure that awareness was there as the project continued. When they span business quarters and are for bets, design projects require something to underpin the faith decision-makers must maintain. 
+
+##Case 2: Internet Infrastructure 
+###Context 
+As a design consultant, I was asked to evaluate and support the implementation of design culture in a services business that was concurrently developing a SaaS product for an offshoot market. We identified that the highest yield activity in the 8-week engagement would be to design and lead a basic user research study to show the team how to 1) do research and 2) integrate it into the current way of working. I collaborated with the developer team lead and the hybrid CX/Product lead. 
+
+###Objective
+Bluntly, the objective was to convince the founders that design was worth the investment. I spent time learning the business history and the context for the product, and reviewed the roadmap to see what features were coming up. The CX/Product lead and I went over the characteristic data of the current customer base and chose six (6) businesses (about a third of the total customer set at that time) to visit and interview in an exploratory study that helped us determine, “Is this feature list prioritized correctly based on what our desired customers need?” To convince the founder, I wanted to show that research helps avoid costly mistakes (playing to fear of loss as psychologically stronger than desire to gain). 
+
+###What We Did 
+I designed the study with help from my internal colleagues and wrote the semi-structured interview instrument. I led three (3) of the interviews and the CX/Product lead led the rest for supervised practice. We purposefully visited each participant on site to gather contextual data about their workplace for further clues around usability and unspoken needs. Together we used [the Trello method](https://www.slideshare.net/mramiransari/design-research-2019-dr19-using-trello-to-conduct-qualitative-research-more-efficiently) for note taking and data analysis, and wrote the study up as a report. 
+
+###What Happened
+This fact of the study was the deliverable more than the findings in this case, along with other artifacts a consultancy colleague worked on while I focused on executing and coaching the staffer through the research. When we presented to the founders, the CEO (who had retained us), and the CTO, I showed the feature list and underscored which decisions were right because of the customer data. I also mapped out their work process and how to include research in sprints or as part of sales and marketing endeavors to keep costs low and data flowing. While a dedicated design team didn’t appear overnight, the software team that works on this product now: 
+
+* Pauses when their debates get out of hand and asks what their customers would think or do
+* Requests data on customers
+* Expects usability testing at minimum when they create a full feature or change anything in the UI 
+
+###Looking Back
+This project was laced with heavy politics, and I learned that coming in with what I thought were sensible ideas is not the most important step. The real most important step is obtaining a thorough awareness of who is each other’s allies, who doesn’t agree on what and why, and everyone’s agendas and motives. Even the best research and ideas don’t survive without strong diplomacy. 
 
 
-### Case 1, Tech and Consulting: "We want to take design and SaaS seriously so we're creating a new division. We want you to lead UX and Product." 
+##Bonus Case 3: Telecommunications (Internal) 
+###Context 
+Co-design a study with the team lead to determine the effectiveness of checklists in a UX design team’s way of working. I helped set up the formality around the study. 
 
-#### What I heard
-We are taking design seriously but don't know where to start. Where do we start? 
+###Objective 
+Product managers bring pieces of work through a larger process of which design is a part of one phase. Often design enters too late, and ends up uncovering things that derail the progress of the work or aren’t able to do a thorough job because they aren’t brought in with enough time. We hypothesized that a series of checklists would ensure UX designers had support in being more thorough while improving transparency and therefore understanding with other domain experts (like product managers).  
 
-#### The problem I named
-There is a need for basic signposts and standards of good performance in the business. 
+###What We Did 
+Our main question was, “How do checklists improve collaboration between designers and other domain experts in the business?” We captured baseline metrics, e.g. “how often are designers having complete kickoffs with product managers” or “extent to which a designer can articulate the design needs of an assignment,” and then implemented the seven (7) checklists with two designers. I selected two designers based on the criteria: business area, amount of time in the team, current workload, upcoming assignments. We ran the checklist experiment for two (2) sprints. We documented everything in Confluence and shared verbal updates during design drop-in sessions and in wider UX team meetings. We now use these checklists as a standard in our way of working.
+ 
+###What Happened
+We found that checklists helped support the participating designers, who did not necessarily feel clear enough to say they didn’t have all the information they needed, or sure of how to wrangle this missing information in a culture of very busy people. The checklists also helped designers get what they needed earlier on so they could successfully deliver work in the estimated amount of time. As an interim result, using checklists is now a standard across the full design team from which the participating two designers came. Qualitatively, transparency with other domains has improved and timelines are more realistic. 
 
-#### The real problem I discovered after a few weeks on the job: 
-[Although the executive level and the software team took design seriously, no one else did yet. Nor did anyone fully understand that SaaS is a business model choice that requires a lot of investment and a stomach for long-term gambling.] 
+###Looking Back 
+A key insight for me as part of this study is that design for processes is just as crucial as design for market-facing applications. I hope to do more of this in the future -- the “U” in UX is anyone who is served by a given design endeavor. 
 
-#### My approach: 
-This was arguably the most abstract design role I have held, so I did some more background learning on managing and systems first.  
-
-1. I spent time consulting sources like Julie Zhuo's *The Making of a Manager* and Donella Meadows' *Thinking in Systems: A Primer* which an old friend had recommended in his Engineering Management blog.  
-
-2. When I arrived, I asked for all documentation on design and product, and created an inventory of all tools and processes currently in use or being considered. I scheduled time with everyone on the team 1 on 1 to ask them about their role. I wanted to get their own words and perspectives on what they did every day and what they thought they were working toward.  
-
-3. I checked the skills and capacity we had against an "ideal" agile software team to look for holes or mismatches of skill against responsibilities in the existing team. Over time I sorted out product from design, and product/design from development. I wrote new job descriptions, co-created a rough design system, and collaborated with the Engineering Lead to hire another Front End Developer.   
-
-4. While doing that, I did an evaluation of our toolkit and updated tools we could use to increase transparency, collaboration, and cost savings. 
-
-	* We switched to Monday.com, which made it easier for sales, marketing and product to communicate. It also doubled as a great project management tool while we experimented with sprints versus shape up cycles. 
-	* Figma became the mockup tool of choice because of its collaboration feature, and its integration into our build cycles. 
-	* I also re-introduced rapid paper prototypes as a first-response strategy before spending time on mockups so we could test new ideas without spending any money. 
-
-#### The outcome: 
-While there is still a ways to go, there are clear design and product performance standards for review cycles and quarterly goals and the design and product team are much more data-driven on everything from "is this the right tool for us?" to "Does this best balance customer needs and the business' strategy?" The culture of usability testing and prototyping is much stronger as well. Getting and keeping buy-in was fuelled by creating data-driven wins for others to see concretely the impact of good design.  
-
-### Case 2, Banking: "We decided we are going to build this new product. Who is our best user? What is the ideal experience?" 
-
-#### What I heard: 
-"We might not have done the research we should have to decide if this was even a good idea before we got the green light from leadership. Here we go anyway so let's make it work!" 
-
-#### The problem I named: 
-We need to find a way to distinguish our user experience design for this product so that it's worth making the switch away from beloved competitors.  
-
-#### My approach:  
-1. Whether internal or external, always have a kickoff meeting. It aligns expectations and gets questions on the table. I usually use this time to get context as well and identify owners versus those accountable or responsible for different parts.
-  
-2. As a designer, I also try to talk with stakeholders one on one to ask them, "What is your understanding of the problem this solution addresses? What is an ideal outcome for you?" This helps me ensure that any design choices are balanced with the business requirements.   
-
-3. In this case, I worked with stakeholders to form hypotheses on best users. I designed interview questions to uncover potential areas we could create a competitive edge, and then wrote a survey to substantiate our findings. 
-
-#### The outcome: 
-Based on this work, my company was able to continue working on this project for another two years. My colleagues subsequently did mockups and usability testing and carried the project forward. I was reassigned to another project with difficult stakeholders, but still advised on usability testing and conducted design critiques. 
-
-### Case 3, Telco: "We are doing IoT and this is inherently cool. Help us design the admin dashboard but also we are not sure yet who our target admin should be."
-
-#### What I heard: 
-"We have never designed this type of experience before. What are our customers doing and would they go for this idea?"
-
-#### The problem I named: 
-We are actually not aware of all our blind spots, so we need to set up a customer journey to check if we've missed anything before taking this out of the MVP stage. 
-
-#### My approach: 
-1. In this case, I had missed the kickoff but needed to provide support to the more UI-oriented design team member who was trying to create visuals based on client input but had not done the research yet to understand the end user's needs. 
-
-2. I designed and administered a series of interviews to five types of "cast members" in the market ecosystem, and then I wrote and administered a survey to substantiate my findings. 
-
-3. The customer journey that we fleshed out was more complex than originally assumed: we actually had two journeys, depending on the type of customer initiating the relationship with the Telco. We also had to manage competing market segments and potential corresponding product strategies depending on how the Telco wanted to proceed (namely, vertical integration? Horizontal universal applicability?) 
-
-#### The outcome: 
-This resulted in a customer journey visual with introductions to customer "cast member" archetypes, market segments and the corresponding strategies, along with highlighted caveats and tradeoffs. This allowed us to focus the UI work on a single, most viable MVP. 
