@@ -34,7 +34,7 @@ As a design consultant, I was asked to evaluate and support the implementation o
 
 ###Objective
 
-The objective was mainly to convince the founders that design is a worth investment. I spent time learning the business history and the context for the product, and reviewed the roadmap to see what features were coming up. The CX/Product lead and I went over the characteristic data of the current customer base and chose six (6) businesses (about a third of the total customer set at that time) to visit and interview in an exploratory study that helped us determine, “Is this feature list prioritized correctly based on what our desired customers need?” To convince the founder, I wanted to show that research helps avoid costly mistakes (playing to fear of loss as psychologically stronger than desire to gain). 
+The objective was mainly to convince the founders that design is a worthy investment. I spent time learning the business history and the context for the product, and reviewed the roadmap to see what features were coming up. The CX/Product lead and I went over the characteristic data of the current customer base and chose six (6) businesses (about a third of the total customer set at that time) to visit and interview in an exploratory study that helped us determine, “Is this feature list prioritized correctly based on what our desired customers need?” To convince the founder, I wanted to show that research helps avoid costly mistakes (playing to fear of loss as psychologically stronger than desire to gain). 
 
 ###What We Did 
 
